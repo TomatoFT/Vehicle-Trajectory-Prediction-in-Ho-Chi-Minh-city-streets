@@ -8,10 +8,22 @@ I choose YOLOv7 for Vehicle Detection Task, DeepSORT for Vehicle Tracking Task a
 
 ### Tech Stack:
 Pytorch
+
 Tensorflow
+
 Python
+
 OpenCV
+
 Scipy
+
 Pillow
 
 ### Demo
+
+
+Uploading city_new_3.mp4
+
+You can see in the small demo. The center of every bounding boxes is the current state, the model is trying to predict the center point in the next state.
+
+In this project, we use Time Series Approach to predict the trajectory of the vehicle
