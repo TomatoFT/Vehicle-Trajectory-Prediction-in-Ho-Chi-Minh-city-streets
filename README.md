@@ -7,17 +7,13 @@ There are Vehicle Detection, Vehicle Tracking and Vehicle Trajectory Prediction.
 I choose YOLOv7 for Vehicle Detection Task, DeepSORT for Vehicle Tracking Task and CNN-LSTM/CNN-GRU for Vehicle Trajectory Task.
 
 ### Tech Stack:
-<li>Pytorch</li>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50px" width="50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50px" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"  height="50px" width="50px"/>
+</p>
 
-<li>Tensorflow</li>
-
-<li>Python</li>
-
-<li>OpenCV</li>
-
-<li>Scipy</li>
-
-<li>Pillow</li>
 
 ### Demo
 
