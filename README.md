@@ -1,4 +1,5 @@
-# Vehicle Trajectory Prediction 
+# Vehicle Trajectory Prediction in Ho Chi Minh City streets.
+
 This is the final project for DS201 - Deep Learning for Data Science of the University of Information Technology course.
 
 The purpose of this project is to predict the trajectory of the vehicles in Thu Duc District, Ho Chi Minh city, Vietnam. There are 3 main sub-tasks for this project. 
