@@ -1,4 +1,4 @@
-./traced_model.pt
-traced_model.pt
-./weights/yolov7x.pt
-/weights/yolov7x.pt
+*.pt
+*.mp4
+__pycache__
+*.h5
