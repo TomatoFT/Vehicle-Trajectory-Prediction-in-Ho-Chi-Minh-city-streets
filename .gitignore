@@ -2,3 +2,4 @@
 *.mp4
 __pycache__
 *.h5
+*.ipynb
