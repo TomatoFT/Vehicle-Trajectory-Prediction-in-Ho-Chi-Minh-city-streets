@@ -7,6 +7,18 @@ There are Vehicle Detection, Vehicle Tracking and Vehicle Trajectory Prediction.
 
 I choose YOLOv7 for Vehicle Detection Task, DeepSORT for Vehicle Tracking Task and CNN-LSTM/CNN-GRU for Vehicle Trajectory Task.
 
+### :file_folder: Vehicle Trajectory Training Dataset
+
+You can access the dataset used for training the Vehicle Trajectory model by following this link: [Vehicle Trajectory Dataset on Kaggle](https://www.kaggle.com/datasets/tonchow/uit-vehpredtraj-dataset).
+
+### :notebook: Training Model Notebook
+
+To explore the training model and run experiments, you can use the following Google Colab notebook: [Vehicle Trajectory Training Model Notebook](https://colab.research.google.com/drive/1cmuh40m8CoNlMCn6_GFf8nw4bNr-Tz9O?usp=sharing
+).
+
+Feel free to use these resources to enhance your understanding of vehicle trajectory modeling and analysis.
+
+
 ### Tech Stack:
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50px" width="50px"/>
